@@ -1,0 +1,10 @@
+ Volume in drive C is Windows 10
+ Volume Serial Number is 0A3E-D9A2
+
+ Directory of C:\Users\Sagorica Dutta\Desktop\myproject
+
+01-04-18  23:24    <DIR>          .
+01-04-18  23:24    <DIR>          ..
+01-04-18  23:24                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  49,439,023,104 bytes free
